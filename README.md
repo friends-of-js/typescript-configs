@@ -68,4 +68,4 @@ Select the appropriate configuration type:
 ## License
 
 @friends-of-js/typescript-configs © [Dmitriy Romanov](https://github.com/noldors),
-Released under the MIT License.
+released under the MIT License.
