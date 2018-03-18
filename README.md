@@ -7,9 +7,9 @@
 ## Install
 
 ```sh
-yarn add @friends-of-js/typescript-configs
+yarn add --dev @friends-of-js/typescript-configs
 # or
-npm install @friends-of-js/typescript-configs
+npm install --save-dev @friends-of-js/typescript-configs
 ```
 
 ## Table of Contents
