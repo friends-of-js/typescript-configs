@@ -1,0 +1,60 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "outDir": "../../../lib",
+    "rootDir": "../../../src",
+    "baseUrl": "../../../",
+    "allowSyntheticDefaultImports": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "alwaysStrict": false,
+    "charset": "utf8",
+    "declaration": false,
+    "diagnostics": false,
+    "disableSizeLimit": true,
+    "downlevelIteration": true,
+    "emitBOM": false,
+    "emitDecoratorMetadata": true,
+    "esModuleInterop": false,
+    "experimentalDecorators": true,
+    "inlineSourceMap": false,
+    "sourceMap": true,
+    "isolatedModules": false,
+    "importHelpers": true,
+    "jsx": "React",
+    "jsxFactory": "h",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015",
+      "es2016",
+      "es2017",
+      "esnext"
+    ],
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "newLine": "lf",
+    "noEmitHelpers": false,
+    "noErrorTruncation": true,
+    "noImplicitUseStrict": true,
+    "removeComments": false,
+    "stripInternal": true,
+    "pretty": true,
+    "traceResolution": false,
+    "listFiles": false
+  },
+  "typeRoots": [
+    "../../../build/"
+  ],
+  "include": [
+    "../../../**/*.ts"
+  ],
+  "exclude": [
+    "../../../node_modules/**",
+    "../../../lib/**/*.ts",
+    "../../../dist/**/*.ts",
+    "../../../build/**/*",
+    "../../../template/**/*"
+  ],
+  "compileOnSave": false
+}
