@@ -21,11 +21,11 @@ There are 4 types of configs:
 1. standard-latest
 1. standard
 
-Strict-latest and standard-latest configs are constantly updated,
+**_Strict-latest_** and **_standard-latest_** configs are constantly updated,
 including minor and patch releases.
-Strict and standard configs updated only on major release.
+**_Strict_** and **_standard_** configs updated only on major release.
 
-Strict configs include all typescript checks,
+**_Strict_** configs include all typescript checks,
 in contrast to the standards configs,
 which almost does not include any checks.
 
