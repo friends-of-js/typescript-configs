@@ -67,5 +67,5 @@ Select the appropriate configuration type:
 
 ## License
 
-@friends-of-js/typescript-configs © [Dmitriy Romanov](https://github.com/noldors),
+@friends-of-js/typescript-configs © [Dmitriy Romanov](https://github.com/friends-of-js),
 released under the MIT License.
