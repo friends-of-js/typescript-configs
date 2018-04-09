@@ -53,7 +53,7 @@
     "../../../node_modules/**",
     "../../../lib/**/*.ts",
     "../../../dist/**/*.ts",
-    "../../../build/**/*",
+    "../../../build/**/*!(d.ts)",
     "../../../template/**/*"
   ],
   "compileOnSave": false
